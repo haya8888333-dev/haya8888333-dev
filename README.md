@@ -11,7 +11,7 @@ I am a results-driven professional specializing in **Data Analysis**, **Business
 ### 🛠 Tech Stack
 * **Languages & Tools:** Python, SQL, Excel.
 * **Visualization:** Power BI, Tableau.
-* **SAP Suite:** SAP CX (Sales, Service, Marketing Cloud).
+* **SAP Suite:** SAP CX (Sales, Service, Customer, Marketing Cloud).
 
 ### 📫 Let's Connect
 * **LinkedIn:** [Haya M. - SAP CX Profile](https://www.linkedin.com/in/haya-m-sap-cx-293b63208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
