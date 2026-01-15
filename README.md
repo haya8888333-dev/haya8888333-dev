@@ -1,22 +1,19 @@
-## Hi there, I'm Haya 👋
+# Hi there, I'm Haya 👋
 
-<!--
-I am a multi-disciplinary professional blending Data Analytics, Business Intelligence, and Customer Experience (CX). My focus is on turning complex data into actionable business strategies and optimizing customer journeys through SAP solutions.
+I am a results-driven professional specializing in **Data Analysis**, **Business Intelligence**, and **Customer Experience**. I bridge the gap between technical data insights and strategic business growth.
 
-🚀 What I Do
-Data & Business Analysis: Transforming raw data into insights to drive decision-making.
+### 🚀 Expertise
+* **Data & Business Analysis:** Turning complex datasets into actionable strategies.
+* **BI Development:** Building interactive dashboards to monitor business performance.
+* **SAP CX Consulting:** Optimizing customer journeys and CRM workflows.
+* **CX Analysis:** Enhancing customer satisfaction through data-driven insights.
 
-BI Development: Creating interactive dashboards (Power BI/Tableau) to visualize KPIs.
+### 🛠 Tech Stack
+* **Languages & Tools:** Python, SQL, Excel.
+* **Visualization:** Power BI, Tableau.
+* **SAP Suite:** SAP CX (Sales, Service, Marketing Cloud).
 
-SAP CX Consulting: Implementing and optimizing SAP Customer Experience solutions.
+### 📫 Let's Connect
+* **LinkedIn:** [Haya M. - SAP CX Profile](https://www.linkedin.com/in/haya-m-sap-cx-293b63208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-CX Analysis: Analyzing customer behavior to improve satisfaction and loyalty.
-
-🛠 Tech Stack
-Analysis: Python, SQL, Excel (Advanced)
-
-Visualization: Power BI, Tableau, Google Data Studio
-
-CRM/ERP: SAP CX (Sales, Service, Marketing Cloud)
-
-Process: Agile, Business Process Mapping, Journey Mapping
+---
