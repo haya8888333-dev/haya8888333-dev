@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Haya 👋
 
 <!--
-**haya8888333-dev/haya8888333-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a multi-disciplinary professional blending Data Analytics, Business Intelligence, and Customer Experience (CX). My focus is on turning complex data into actionable business strategies and optimizing customer journeys through SAP solutions.
 
-Here are some ideas to get you started:
+🚀 What I Do
+Data & Business Analysis: Transforming raw data into insights to drive decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BI Development: Creating interactive dashboards (Power BI/Tableau) to visualize KPIs.
+
+SAP CX Consulting: Implementing and optimizing SAP Customer Experience solutions.
+
+CX Analysis: Analyzing customer behavior to improve satisfaction and loyalty.
+
+🛠 Tech Stack
+Analysis: Python, SQL, Excel (Advanced)
+
+Visualization: Power BI, Tableau, Google Data Studio
+
+CRM/ERP: SAP CX (Sales, Service, Marketing Cloud)
+
+Process: Agile, Business Process Mapping, Journey Mapping
