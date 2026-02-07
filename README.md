@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Haya
 
-I’m a Data Analyst, Business Analyst, and BI Analyst with expertise in SAP CX.
+I’m a Data Analyst, Business Analyst, and BI Analyst.
 
 ### 💼 What I Do
 - Analyze data to support strategic and operational decisions  
