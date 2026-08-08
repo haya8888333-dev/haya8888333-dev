@@ -19,5 +19,5 @@ I’m a Data Analyst, Business Analyst, and BI Analyst.
 Enabling smarter decisions through structured analysis, clear metrics, and scalable insights.
 
 ### 🔗 Connect with Me
-- LinkedIn: [Haya – SAP CX & Data Analytics](https://www.linkedin.com/in/haya-m-293b63208)
+- LinkedIn: [Haya – SAP CX & Data Analytics](http://www.linkedin.com/in/haya-m-sap-sf-293b63208)
 ---
