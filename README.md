@@ -14,10 +14,11 @@ I’m a Data Analyst, Business Analyst, and BI Analyst.
 - Data Analysis & Visualization  
 - Business & BI Analysis  
 - SAP CX Solutions
+- SAP SuccessFactors
 
 ### 📌 Focus
 Enabling smarter decisions through structured analysis, clear metrics, and scalable insights.
 
 ### 🔗 Connect with Me
-- LinkedIn: [Haya – SAP CX & Data Analytics](http://www.linkedin.com/in/haya-m-sap-sf-293b63208)
+- LinkedIn: [Haya – SAP SF & Data Analytics](http://www.linkedin.com/in/haya-m-sap-sf-293b63208)
 ---
